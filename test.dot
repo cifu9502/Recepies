@@ -1,0 +1,14 @@
+strict digraph "" {
+	Mide -> Mezcla;
+	Mide -> "0Jarred DOLE T";
+	Mezcla -> "Cubre y licua";
+	Mezcla -> "1Jarred DOLE T";
+	Mezcla -> "1Néctar de man";
+	Mezcla -> "1Leche de coco";
+	Mezcla -> "1Plátano DOLE:";
+	Mezcla -> "1Queso crema s";
+	Mezcla -> "1Miel";
+	"Cubre y licua" -> Vierte;
+	Vierte -> Colócalos;
+	Vierte -> "3Moldes para p";
+}
